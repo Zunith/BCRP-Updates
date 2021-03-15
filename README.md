@@ -8,6 +8,7 @@ V2.3 - Map, & Other Additions
 - New Streetsigns on highways.
 - New Blaine County Streetlights.
 - Added "/engine" command.
+- Added Gun firing modes. (burst/single/auto, including a gun safety.)
 -----------------------------------------------------------------------------------------------------
 V2.2 - Map Edits.
 - New downtown Highway Patrol Interior.
