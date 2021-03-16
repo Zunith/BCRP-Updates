@@ -3,11 +3,15 @@ This repository in which contains updates, and other improves that have been rec
 
 Current updates :
 -----------------------------------------------------------------------------------------------------
+V2.4 - FivePD changes
+- New set of searchable, and, findable items.
+- New set of charges with set prices.
+- Added "/engine" command.
+-----------------------------------------------------------------------------------------------------
 V2.3 - Map, & Other Additions
 - New Pillbox Interior Re-design.
 - New Streetsigns on highways.
 - New Blaine County Streetlights.
-- Added "/engine" command.
 - Added Gun firing modes. (burst/single/auto, including a gun safety.)
 -----------------------------------------------------------------------------------------------------
 V2.2 - Map Edits.
