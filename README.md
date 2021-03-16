@@ -3,7 +3,7 @@ This repository in which contains updates, and other improves that have been rec
 
 Current updates :
 -----------------------------------------------------------------------------------------------------
-V2.4 - FivePD changes
+V2.4 - FivePD Additions.
 - New set of searchable, and, findable items.
 - New set of charges with set prices.
 - Added "/engine" command.
