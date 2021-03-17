@@ -3,6 +3,11 @@ This repository in which contains updates, and other improves that have been rec
 
 Current updates :
 -----------------------------------------------------------------------------------------------------
+To match realism,
+- New 45 ACP Smith and Wesson. (Replaces "Pistol")
+- New MP5 SMG. (For ERT)
+(More Coming Soon.)
+-----------------------------------------------------------------------------------------------------
 V2.4 - FivePD Additions.
 - New set of searchable, and, findable items.
 - New set of charges with set prices.
