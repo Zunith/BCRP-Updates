@@ -3,7 +3,6 @@ This repository in which contains updates, and other improves that have been rec
 
 Current updates :
 -----------------------------------------------------------------------------------------------------
-To match realism,
 V2.5 - New Weapons.
 - New 45 ACP Smith and Wesson. (Replaces "Pistol")
 - New MP5 SMG. (For ERT)
