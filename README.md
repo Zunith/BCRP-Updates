@@ -6,6 +6,8 @@ Current updates :
 V2.5 - New Weapons.
 - New 45 ACP Smith and Wesson. (Replaces "Pistol")
 - New MP5 SMG. (For ERT)
+- New Bugatti Veyron.
+- New 2015 Ford Mustang GT.
 (More Coming Soon.)
 -----------------------------------------------------------------------------------------------------
 V2.4 - FivePD Additions.
