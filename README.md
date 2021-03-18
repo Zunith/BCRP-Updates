@@ -3,11 +3,14 @@ This repository in which contains updates, and other improves that have been rec
 
 Current updates :
 -----------------------------------------------------------------------------------------------------
-V2.5 - New Weapons.
+V2.5 - New Weapons & Cars.
 - New 45 ACP Smith and Wesson. (Replaces "Pistol")
-- New MP5 SMG. (For ERT)
-- New Bugatti Veyron.
-- New 2015 Ford Mustang GT.
+- New MP5 SMG. (For ERT).
+- New Bugatti Veyron. (adder)
+- New 2015 Ford Mustang GT. (dominator)
+- New 2010 Dodge RAM 3500 (bison)
+- PG Gooseneck Trailer (trflat)
+- Car Trailer (trailercar)
 (More Coming Soon.)
 -----------------------------------------------------------------------------------------------------
 V2.4 - FivePD Additions.
