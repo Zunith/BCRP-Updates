@@ -11,7 +11,7 @@ V2.5 - New Weapons & Cars.
 - New 2010 Dodge RAM 3500 (bison)
 - PG Gooseneck Trailer (trflat)
 - Car Trailer (trailercar)
-(More Coming Soon.)
+(More Coming Soon)>
 -----------------------------------------------------------------------------------------------------
 V2.4 - FivePD Additions.
 - New set of searchable, and, findable items.
