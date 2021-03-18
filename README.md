@@ -84,7 +84,12 @@ V1.6 - Vehicles, & Bug Fix's
 - Mercedes-BenzG65 - (dubsta)
 - 2013 Mercedes AMG - (felon)
 - Cadillac Escalade - (granger)
+- Mustang GT (dominator)
+- Bugatti Veyron (adder)
 - Mclaren P1 - (t20)
+- Dodge Ram 3500 (bison)
+- PG Gooseneck Trailer (trflat)
+- Car Trailer (trailercar)
 
 Bug Fix Updates:
 - CalmAI implemented. This will stop locals from ramming into your vehicle when they hear Gunshots.
