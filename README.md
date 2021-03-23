@@ -3,6 +3,11 @@ This repository in which contains updates, and other improves that have been rec
 
 Current updates :
 -----------------------------------------------------------------------------------------------------
+V2.6 - New Clothing & More!
+- New Set of Police Vest's.
+- Police Radar Fast-Lock has been enabled.
+- More - Coming Soon.!
+-----------------------------------------------------------------------------------------------------
 V2.5 - New Weapons & Cars.
 - New 45 ACP Smith and Wesson. (Replaces "Pistol")
 - New MP5 SMG. (For ERT).
