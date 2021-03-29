@@ -3,6 +3,10 @@ This repository in which contains updates, and other improves that have been rec
 
 Current updates :
 -----------------------------------------------------------------------------------------------------
+V2.5 - Map, & Clothing.
+- EUP 9.2 (New Clothing)
+- Harmony has recieved a re-texture. 
+-----------------------------------------------------------------------------------------------------
 V2.6 - New Clothing & More!
 - New Set of Police Vest's.
 - Police Radar Fast-Lock has been enabled.
