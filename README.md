@@ -3,10 +3,11 @@ This repository in which contains updates, and other improves that have been rec
 
 Current updates :
 -----------------------------------------------------------------------------------------------------
-V2.8 - Clothing
+V2.8 - Clothing & Fixes
 - Fixed EUP Clothing.
 - Added more EUP Vests
-- Fixed the Chat (lol)
+- Reworked the look of the chat.
+- Reworked the "/me" look.
 -----------------------------------------------------------------------------------------------------
 V2.7 - Quick Edits
 - Vehicle Damages has been tweaked.
