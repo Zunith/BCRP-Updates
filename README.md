@@ -3,7 +3,7 @@ This repository in which contains updates, and other improves that have been rec
 
 Current updates :
 -----------------------------------------------------------------------------------------------------
-V2.8 - Clothing & Cars
+V2.9 - Clothing & Cars
 - Added LAPD Clothing
 - Added LAPD Vehicles.
 - Added (2) Civ Cars.
