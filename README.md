@@ -3,6 +3,11 @@ This repository in which contains updates, and other improves that have been rec
 
 Current updates :
 -----------------------------------------------------------------------------------------------------
+V3.0 - Callouts & Other Internals
+- Added more searchable/findable items.
+- Added more askable questions (traffic stops etc.)
+- Added (3) more callouts. (Emergency Landing, Killer-Clown, and Escaped Convicts TWEAKED)
+-----------------------------------------------------------------------------------------------------
 V2.9 - Clothing & Cars
 - Added LAPD Clothing
 - Added LAPD Vehicles.
