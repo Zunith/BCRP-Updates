@@ -7,7 +7,7 @@ V3.0 - Callouts & Other Internals
 - Added more searchable/findable items.
 - Added more askable questions (traffic stops etc.)
 - Added (3) more callouts. (Emergency Landing, Killer-Clown, and Escaped Convicts)
-- Added (2) callout pack's which consit of (13) callouts.
+- Added (3) callout pack's which consit of (16) callouts.
 - Tweaked the stun-gun, and, nightstick damage.
 -----------------------------------------------------------------------------------------------------
 V2.9 - Clothing & Cars
