@@ -10,6 +10,7 @@ V3.0 - Callouts & Other Internals
 - Added (3) callout pack's which consit of (16) callouts.
 - Tweaked the stun-gun, and, nightstick damage.
 - Tweaked the look of the chat.
+- Added "/ooc" command so we can talk in chat.
 -----------------------------------------------------------------------------------------------------
 V2.9 - Clothing & Cars
 - Added LAPD Clothing
