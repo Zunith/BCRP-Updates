@@ -9,7 +9,7 @@ V3.0 - Callouts & Other Internals
 - Added (3) more callouts. (Emergency Landing, Killer-Clown, and Escaped Convicts)
 - Added (3) callout pack's which consit of (16) callouts.
 - Tweaked the stun-gun, and, nightstick damage.
-- Tweaked the chat.
+- Tweaked the look of the chat.
 -----------------------------------------------------------------------------------------------------
 V2.9 - Clothing & Cars
 - Added LAPD Clothing
