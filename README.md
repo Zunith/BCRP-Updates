@@ -16,6 +16,8 @@ V3.0 - Callouts & Other Internals
 - Added a new set of sounds. (ambient etc.)
 - Added proper physics. (You can loose your grip when climbing things, running etc.)
 - Added a car-wash.
+- Added the ability to sitdown on any bench using the "F" muscle.
+- Added driveable, and rideable Metro Trains that roam the map.
 - Updated the Police Radar system. (V1.3.0)
 - Edited the vehicle damage multiplier.
 - Edited the fuel gage and how fast fuel disipates. 
