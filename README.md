@@ -11,6 +11,8 @@ V3.0 - Callouts & Other Internals
 - Tweaked the stun-gun, and, nightstick damage.
 - Tweaked the look of the chat.
 - Added "/ooc" command so we can talk in chat.
+- Added a Security Camera System.
+- Added more commands. "/huk (hands up kneel)", "/hu (hands up)", "/cuff (id)"
 -----------------------------------------------------------------------------------------------------
 V2.9 - Clothing & Cars
 - Added LAPD Clothing
