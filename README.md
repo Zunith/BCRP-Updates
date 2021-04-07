@@ -12,6 +12,7 @@ V3.0 - Callouts & Other Internals
 - Tweaked the look of the chat.
 - Added more commands. "/huk (hands up kneel)", "/hu (hands up)", "/cuff (id)"
 - Added a Door Chime noise when exiting the vehicle.
+- Added different recoil for each gun.
 - Updated the Police Radar system. (V1.3.0)
 - Edited the vehicle damage multiplier.
 - Edited the fuel gage and how fast fuel disipates. 
