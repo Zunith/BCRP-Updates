@@ -3,7 +3,7 @@ This repository in which contains updates, and other improves that have been rec
 
 Most current updates :
 -----------------------------------------------------------------------------------------------------
-V3.0 - Callouts & Other Internals
+V3.0 - BIG UPDATE - Callouts & other main Internals!
 - Added more searchable/findable items.
 - Added more askable questions (traffic stops etc.)
 - Added (3) more callouts. (Emergency Landing, Killer-Clown, and Escaped Convicts)
