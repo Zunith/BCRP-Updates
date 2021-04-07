@@ -14,6 +14,7 @@ V3.0 - Callouts & Other Internals
 - Added a Security Camera System.
 - Added more commands. "/huk (hands up kneel)", "/hu (hands up)", "/cuff (id)"
 - Added a Door Chime noise when exiting the vehicle.
+- Added a "/911" command for (Local Roleplay Use.)
 - Updated the Police Radar system. (V1.3.0)
 - Edited the vehicle damage multiplier.
 - Edited the fuel gage and how fast fuel disipates. 
