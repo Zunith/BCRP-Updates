@@ -14,6 +14,8 @@ V3.0 - Callouts & Other Internals
 - Added a Door Chime noise when exiting the vehicle.
 - Added different recoil for each gun.
 - Added a new set of sounds. (ambient etc.)
+- Added proper physics. (You can loose your grip when climbing things, running etc.)
+- Added a car-wash.
 - Updated the Police Radar system. (V1.3.0)
 - Edited the vehicle damage multiplier.
 - Edited the fuel gage and how fast fuel disipates. 
