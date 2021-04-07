@@ -13,6 +13,7 @@ V3.0 - Callouts & Other Internals
 - Added "/ooc" command so we can talk in chat.
 - Added a Security Camera System.
 - Added more commands. "/huk (hands up kneel)", "/hu (hands up)", "/cuff (id)"
+- Updated the Police Radar system. (V1.3.0)
 -----------------------------------------------------------------------------------------------------
 V2.9 - Clothing & Cars
 - Added LAPD Clothing
