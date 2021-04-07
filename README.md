@@ -1,7 +1,7 @@
 # BCRP-Updates
 This repository in which contains updates, and other improves that have been recenntly added in which are the following:
 
-Current updates :
+Most current updates :
 -----------------------------------------------------------------------------------------------------
 V3.0 - Callouts & Other Internals
 - Added more searchable/findable items.
@@ -14,6 +14,8 @@ V3.0 - Callouts & Other Internals
 - Added a Security Camera System.
 - Added more commands. "/huk (hands up kneel)", "/hu (hands up)", "/cuff (id)"
 - Updated the Police Radar system. (V1.3.0)
+- Edited the vehicle damage multiplier.
+- Edited the fuel gage and how fast fuel disipates.
 -----------------------------------------------------------------------------------------------------
 V2.9 - Clothing & Cars
 - Added LAPD Clothing
