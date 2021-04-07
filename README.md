@@ -15,7 +15,7 @@ V3.0 - Callouts & Other Internals
 - Added different recoil for each gun.
 - Added a new set of sounds. (ambient etc.)
 - Added proper physics. (You can loose your grip when climbing things, running etc.)
-- Added a car-wash.
+- Added a useable car-wash.
 - Added the ability to sitdown on any bench using the "F" muscle.
 - Added driveable, and rideable Metro Trains that roam the map.
 - Updated the Police Radar system. (V1.3.0)
