@@ -3,6 +3,12 @@ This repository in which contains updates, and other improves that have been rec
 
 Most current updates :
 -----------------------------------------------------------------------------------------------------
+V3.0 - TWEAKS - Smal Changes!
+- Changed how fast fuel disipates.
+- Changed the traffic density. (More traffic, more commercial vehicles.)
+- Added a undercover Box-Van for stakeouts in gang areas etc.
+- Added a police RCMP Eurocopter.
+-----------------------------------------------------------------------------------------------------
 V3.0 - BIG UPDATE - Callouts & other main Internals!
 - Added more searchable/findable items.
 - Added more askable questions (traffic stops etc.)
