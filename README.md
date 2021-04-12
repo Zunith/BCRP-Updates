@@ -14,8 +14,6 @@ V3.0 - BIG UPDATE - Callouts & other main Internals!
 - Added a Door Chime noise when exiting the vehicle.
 - Added different recoil for each gun.
 - Added proper physics. (You can loose your grip when climbing things, running etc.)
-- Added a useable car-wash.
-- Added the ability to sitdown on any bench using the "F" muscle.
 - Added driveable, and rideable Metro Trains that roam the map.
 - Updated the Police Radar system. (V1.3.0)
 - Edited the vehicle damage multiplier.
