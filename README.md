@@ -8,6 +8,7 @@ Most current updates :
 - Added a huge variety of planes. 
 - Added a few plane sounds.
 - Added the ability for locals to be inside stores, etc.
+- Added a David Police Station Interior.
 -----------------------------------------------------------------------------------------------------
 V3.0 - TWEAKS - Small Changes!
 - Changed how fast fuel disipates.
