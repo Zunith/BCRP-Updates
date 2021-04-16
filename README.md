@@ -9,7 +9,7 @@ Most current updates :
 - Added a few plane sounds.
 - Added the ability for locals to be inside stores, etc.
 -----------------------------------------------------------------------------------------------------
-V3.0 - TWEAKS - Smal Changes!
+V3.0 - TWEAKS - Small Changes!
 - Changed how fast fuel disipates.
 - Changed the traffic density. (More traffic, more commercial vehicles.)
 - Added a undercover Box-Van for stakeouts in gang areas etc.
