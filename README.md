@@ -4,7 +4,7 @@ This repository in which contains updates, and other improves that have been rec
 Most current updates :
 -----------------------------------------------------------------------------------------------------
 (NEWEST UPDATE) V3.2 - Quick adjustments
-- Changed how the amount of locals that roam the streets etc. 
+- Changed the amount of locals that roam the streets etc. 
 - Added a huge variety of planes. 
 - Added a few plane sounds.
 - Added the ability for locals to be inside stores, etc.
