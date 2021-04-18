@@ -3,10 +3,10 @@ This repository in which contains updates, and other improves that have been rec
 
 Most current updates :
 -----------------------------------------------------------------------------------------------------
-(NEWEST UPDATE) V3.2 - Map & Edits!
+(NEWEST UPDATE) V3.3 - Map & Edits!
 - Added (35) new planes.
 - Added a set of Airport Utility Vehicles.
-- Added a new Airport's (MSSA, Tataviam International)
+- Added a new Airport's (MSSA, Tataviam International, PIA & JFIA)
 - Added the cayo-perico Island.
 - Made adjustments to sandy shores and it's looks.
 -----------------------------------------------------------------------------------------------------
