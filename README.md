@@ -3,7 +3,13 @@ This repository in which contains updates, and other improves that have been rec
 
 Most current updates :
 -----------------------------------------------------------------------------------------------------
-(NEWEST UPDATE) V3.2 - Quick adjustments
+(NEWEST UPDATE) V3.2 - Map & Edits!
+- Added (35) new planes.
+- Added a set of Airport Utility Vehicles.
+- Added a new Airport (Tataviam International)
+- Added the cayo-perico Island.
+-----------------------------------------------------------------------------------------------------
+(LAST UPDATE) V3.2 - Quick adjustments
 - Changed the amount of locals that roam the streets etc. 
 - Added a huge variety of planes. 
 - Added a few plane sounds.
