@@ -6,8 +6,9 @@ Most current updates :
 (NEWEST UPDATE) V3.2 - Map & Edits!
 - Added (35) new planes.
 - Added a set of Airport Utility Vehicles.
-- Added a new Airport (Tataviam International)
+- Added a new Airport's (MSSA, Tataviam International)
 - Added the cayo-perico Island.
+- Made adjustments to sandy shores and it's looks.
 -----------------------------------------------------------------------------------------------------
 (LAST UPDATE) V3.2 - Quick adjustments
 - Changed the amount of locals that roam the streets etc. 
