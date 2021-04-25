@@ -6,6 +6,7 @@ Most current updates :
 (NEWEST UPDATE) V3.5 - Changes & Improvements!
 - Edited stun-gun taser time (6 Seconds)
 - Edited Weapon & Melee damage. (Decreasing it.)
+- Edited & Fixed the loadout (shows real guns) & radio colors.
 - Added new Vespucci Police Department interior.
 - Added a interior for the Atomic Mechanic shop.
 - Added an improved the Paleto Department interior.
