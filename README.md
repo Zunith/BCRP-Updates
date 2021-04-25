@@ -3,12 +3,24 @@ This repository in which contains updates, and other improves that have been rec
 
 Most current updates :
 -----------------------------------------------------------------------------------------------------
-(NEWEST UPDATE) V3.4 - New Features!
+(NEWEST UPDATE) V3.5 - Changes & Improvements!
+- Edited stun-gun taser time (6 Seconds)
+- Edited Weapon & Melee damage. (Decreasing it.)
+- Added new Vespucci Police Department interior.
+- Added a interior for the Atomic Mechanic shop.
+- Added an improved the Paleto Department interior.
+- Added a subway.
+- Added taser catridges. Each taser has (2)
+- Added a FireScript & Fire Callouts.
+- Added a ZR1 Corvette (specter)
+- BRAND NEW vehicle hud with many more features. (Gears, Gas, Location, Speed, Vehicle Damage, & More)
+-----------------------------------------------------------------------------------------------------
+(LAST UPDATE) V3.4 - New Features!
 - Added /dv command so you no longer need to be on duty to do so.
 - Added it where it wont automatically switch you in driver-seat when entering a vehicle.
 - Added a new speedcamera system with cameras all around the map. (With many cool features)
 -----------------------------------------------------------------------------------------------------
-(LAST UPDATE) V3.3 - Map & Edits!
+V3.3 - Map & Edits!
 - Added (35) new planes.
 - Added a set of Airport Utility Vehicles.
 - Added a new Airport's (MSSA, Tataviam International, PIA & JFIA)
