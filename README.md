@@ -2,8 +2,19 @@
 This repository in which contains updates, and other improves that have been recenntly added in which are the following:
 
 Most current updates :
+
 -----------------------------------------------------------------------------------------------------
-(NEWEST UPDATE) V3.5 - Changes & Improvements!
+(NEWEST UPDATE) V3.6 - Adjustments.
+- Added a 2010 RCMP Chevy Truck for the county.
+- Retextured and coloured the weapon hud & car radio.
+- Added (6) new callouts.
+- Added a racetrack you can travel too.
+- Edited the loadouts & names.
+- Local police vehicles now have rcmp liveries.
+- Local police now wear RCMP uniforms. 
+- Made minor changes to our HUD (Colors etc)
+-----------------------------------------------------------------------------------------------------
+(LAST UPDATE) V3.5 - Changes & Improvements!
 - Edited stun-gun taser time (6 Seconds)
 - Edited Weapon & Melee damage. (Decreasing it.)
 - Edited & Fixed the loadout (shows real guns) & radio colors.
