@@ -2,10 +2,12 @@
 This repository in which contains updates, and other improves that have been recenntly added in which are the following:
 
 Most current updates :
-
 -----------------------------------------------------------------------------------------------------
 (NEWEST UPDATE) V3.6 - Adjustments.
 - Added a 2010 RCMP Chevy Truck for the county.
+- Added a Unmarked Impala.
+- Added the ability to push-cars off the raod.
+- Added a 40mm Bean-Bag shotgun. (Less-Lethal)
 - Retextured and coloured the weapon hud & car radio.
 - Added (6) new callouts.
 - Added a racetrack you can travel too.
