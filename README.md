@@ -3,7 +3,7 @@ This repository in which contains updates, and other improves that have been rec
 
 Most current updates :
 -----------------------------------------------------------------------------------------------------
-(NEWEST UPDATE) V3.6 - Adjustments.
+(NEWEST & BIGGEST UPDATE) V3.6 - Adjustments.
 - Added a 2010 RCMP Chevy Truck for the county.
 - Added a Unmarked Impala.
 - Added the ability to push-cars off the raod.
@@ -15,6 +15,25 @@ Most current updates :
 - Local police vehicles now have rcmp liveries.
 - Local police now wear RCMP uniforms. 
 - Made minor changes to our HUD (Colors etc)
+
+ESX & Much More!
+- Added ESX framework.
+- Configured ESX to be compatible with FivePD.
+- Added Periodic Paychecks.
+- Added a banking system
+- Added a economy system, everyone starts with $50,000.
+- Added a bodybag system to bag up downed players.
+- Added a carwash system.
+- Added more weapon recoil while in third and first person.
+- Added a few jobs.
+- Added a little iventory system.
+- Added a new phone system.
+- Added a Car Dealer
+- Added a Weapon's Dealer
+- Added a new DNA Tracking System.
+- Added the ability to push vehicles off the road.
+- Added a new HUD for ESX.
+- Added a "/hose" to turn fire extinguisher into a hose. 
 -----------------------------------------------------------------------------------------------------
 (LAST UPDATE) V3.5 - Changes & Improvements!
 - Edited stun-gun taser time (6 Seconds)
