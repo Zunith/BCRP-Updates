@@ -3,7 +3,42 @@ This repository in which contains updates, and other improves that have been rec
 
 Most current updates :
 -----------------------------------------------------------------------------------------------------
- (NEWEST & BIGGEST UPDATE) - V3.7 - Framework Reworked
+ (NEWEST & BIGGEST UPDATE) - V3.8 - Fixes & Improvements!
+- Added a "/fix" & "/clean" command.
+- Added a "/tpm" (teleport to marker) command.
+
+FivePD:
+- Fixed a few callout related bugs.
+- Added a few more ambient scenarios.
+
+Vehicles:
+- [NEW] 2018 Camaro ZL1 - (18camaro)
+- [NEW] Audi A6 - (vmoda6)
+- [NEW] Audi S8 - (tailgater)
+- [NEW] 2017 Nissan Warrior Truck - (contender)
+- [NEW] Freightliner Cascadia 2019 - (packer)
+- [NEW] Lowboy Trailer - (trflat)
+- [NEW] Tesla Model 3- (voltic)
+- [NEW] 2016 Tesla Model S P90D - (surge)
+- [NEW] 2016 Challenger Models - (16CHALLENGER)
+- [NEW] Peterbuilt Towtruck- (337flatbed)
+- [NEW] Ferrari 430 - (infermus)
+- [NEW] Pagani Huayra - (osiris)
+- [NEW] Toyota Land Crusier - (cavalcade)
+- [NEW] Mercedes C63 AMG - (tailgater)
+- [NEW] 1969 RT Dodge Charger - (dukes)
+- [NEW] 1970 Pontiac Firebird - (nightshade)
+- [NEW] Nissan GTR R35 - (elegy2)
+- [NEW] 1970 Chevelle SS - (sabregt)
+- [NEW] Mini Cooper - (issi2)
+- [NEW] BMW I8 - (cheetah)
+- [NEW] Dodge Challenger SRT 2015 - (tampa2)
+
+Police Vehicles:
+- [NEW] Police John Deere Gator - (utv2)
+- [NEW] Helicopter Livery.
+-----------------------------------------------------------------------------------------------------
+ (LAST UPDATE) - V3.7 - Framework Reworked
  - Added a police transport van (Bait Van) 
  - Added IRSU vehicles. (Tahoe, Taurus)
  - Added the ability to use a radar gun. (Vintage Pistol)
@@ -44,7 +79,7 @@ FivePD!
  - Got the phone working. (still few bugs)
 & Much, Much More!
 -----------------------------------------------------------------------------------------------------
-(LAST UPDATE) V3.6 - Adjustments.
+(OLD UPDATE) V3.6 - Adjustments.
 - Added a 2010 RCMP Chevy Truck for the county.
 - Added a Unmarked Impala.
 - Added the ability to push-cars off the raod.
